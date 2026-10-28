@@ -1,0 +1,14 @@
+{
+  "name": "demo-good",
+  "version": "1.0.0",
+  "description": "Sample orders dashboard used to demo onboarding with ZenseAI AIDLC Centre. Every release is healthy.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "MIT"
+}
