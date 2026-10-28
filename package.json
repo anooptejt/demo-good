@@ -1,6 +1,6 @@
 {
   "name": "demo-good",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Sample orders dashboard used to demo onboarding with ZenseAI AIDLC Centre. Every release is healthy.",
   "main": "server.js",
   "scripts": {

@@ -7,7 +7,7 @@ const path = require('path');
 const pkg = require('./package.json');
 
 const PORT = Number(process.env.PORT) || 8080;
-const BANNER = 'Orders dashboard is live.';
+const BANNER = 'New: order search is here.';
 
 const info = {
   title: 'Orders Dashboard',
