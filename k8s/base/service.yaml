@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: demo-good
+spec:
+  selector:
+    app: demo-good
+  ports:
+    - port: 8080
+      targetPort: 8080
