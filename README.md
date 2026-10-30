@@ -1,4 +1,4 @@
-# demo-good
+# Demo-good
 
 Sample Node web app (an orders dashboard with a small UI) used to demo repository onboarding with ZenseAI AIDLC Centre. This is the **good** app: every release starts and stays healthy.
 
